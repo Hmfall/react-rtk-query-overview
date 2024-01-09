@@ -34,4 +34,5 @@ const PhotoGrid: FC<PhotoGridProps> = ({ photos, isLoading }) => {
       </Box>
    );
 };
+
 export default PhotoGrid;
